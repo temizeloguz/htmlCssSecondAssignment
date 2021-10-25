@@ -1,0 +1,85 @@
+.googleLogo {
+  text-align: center;
+}
+label {
+  display: block;
+  text-align: center;
+
+  width: 320px;
+  margin: 0;
+}
+
+.cards {
+  justify-content: center;
+}
+#copyrightText{
+  display: block;
+  text-align: center;
+  font-size: 13px;
+}
+.firstCard {
+  display: flex;
+  float: left;
+  margin-left: 70px;
+  margin-top: 1px;
+  border-right: 2px solid white;
+  padding-right: 350px;
+  text-align: center;
+  align-items: center;
+  justify-content: flex-end;
+
+  background-color: rgb(126, 229, 218);
+}
+
+.secondCard {
+  display: flex;
+  float: left;
+  background-color: rgb(112, 204, 194);
+  margin-top: 1px;
+  padding-top: 1px;
+  font-size: 13px;
+  padding-right: 150px;
+  text-align: center;
+  align-items: center;
+border-right: 1px solid white;
+  justify-content: flex-end;
+}
+
+.thirdCard {
+  float: left;
+  background-color: rgb(98, 179, 170);
+  margin-top: 1px;
+  padding-bottom: 5px;
+  font-size: 13px;
+  text-align: center;
+  align-items: center;
+  justify-content: flex-end;
+  width: 571px;
+  padding-bottom: 13px;
+}
+
+#searchBar {
+  display: inline-block;
+  width: 305px;
+}
+
+.searchSection {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin-left: 70px;
+  margin-right: 70px;
+  background-color: rgb(238, 238, 238);
+}
+ul {
+  text-align: center;
+  list-style-type: none;
+}
+li{
+ 
+  text-align: center;
+
+}
+p {
+  display: inline;
+}
